@@ -1,0 +1,4 @@
+__pycache__/
+glide_model_cache/
+*.egg-info/
+.DS_Store
